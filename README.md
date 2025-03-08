@@ -30,4 +30,8 @@ After getting all the run time data, fill these data into `plot.py` and run to g
 
 # Results
 Here are the results of our experiments.
+![Heap Complexity Table](insert.png)
+![Heap Complexity Table](delete-min.png)
+![Heap Complexity Table](build.png)
+
 
